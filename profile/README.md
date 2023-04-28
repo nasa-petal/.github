@@ -1,8 +1,8 @@
-## Welcome to PeTaL
+## Welcome to PeTaL - [petalai.org](https://petalai.org)
 
 Our goal is to help biomimicry practitioners identify and apply bio-inspired design solutions to specific engineering design challenges using our expertise in software development, AI, and Machine Learning.
 
-We use the [design thinking](https://www.interaction-design.org/literature/topics/design-thinking) process, to make sure our research, design and development is user-centered. Part of that process is creating quick prototypes to validate the usefulness of ideas. Our prototypes can be found [here](https://nasa-petal.github.io/petal-prototype/).
+We use the [design thinking](https://www.interaction-design.org/literature/topics/design-thinking) process, to make sure our research, design and development is user-centered. Part of that process is creating quick prototypes to validate the usefulness of ideas. Our prototypes can be found [here](https://nasa-petal.github.io/petal-prototype/). 
 
 <!--
 
