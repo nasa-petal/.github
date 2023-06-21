@@ -21,7 +21,7 @@ We use the [design thinking](https://www.interaction-design.org/literature/topic
 1. Familiarize yourself with the [Biomimicry Design Process](https://toolbox.biomimicry.org/methods/process/) as many of our project goals relate to automating or assisting with steps in this process: 
 1. Read the blog article, [Kanban 101](https://blog.trello.com/kanban-101), to understand the agile framework we use for PeTaL. 
 1. If you will be working with Large Language Models [these resources](https://github.com/nasa-petal/PeTaL/wiki/Large-Language-Models) will be helpful.
-1. If you will be working on ML model building. Read these first: https://arxiv.org/pdf/2108.02497.pdf, https://arxiv.org/pdf/1811.12808.pdf. This NLP textbook may be a good resource as well - https://web.stanford.edu/~jurafsky/slp3/. NLP SOTA - https://nlpprogress.com/
-1. Find a task to work on from the backlog and assign yourself to it. Highest priority tasks are at the top of the backlog column. If you have questions about a task, let the team know. https://github.com/orgs/nasa-petal/projects/4
+1. If you will be working on ML model building. Read these first: https://arxiv.org/pdf/2108.02497.pdf, https://arxiv.org/pdf/1811.12808.pdf. [This NLP textbook](https://web.stanford.edu/~jurafsky/slp3/) may be a good resource as well. [NLP SOTA](https://nlpprogress.com/)
+1. Find a task to work on from the [backlog](https://github.com/orgs/nasa-petal/projects/4) and assign yourself to it. Highest priority tasks are at the top of the backlog column. If you have questions about a task, let the team know. 
 1. Work on the task, moving it through the columns from left to right, until it is complete.
 1. Repeat Step 6. 
