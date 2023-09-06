@@ -4,6 +4,14 @@ Our goal is to help biomimicry practitioners identify and apply bio-inspired des
 
 We use the [design thinking](https://www.interaction-design.org/literature/topics/design-thinking) process, to make sure our research, design and development is user-centered. Part of that process is creating quick prototypes to validate the usefulness of ideas. Our prototypes can be found [here](https://nasa-petal.github.io/petal-prototype/). 
 
+### BIDARA (Bio-Inspired Design and Research Assistant)
+
+BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies.
+
+BIDARA can guide users through the Biomimicry Institute’s Design Process, a step-by-step method to propose biomimetic solutions to challenges. This process includes defining the problem, biologizing the challenge, discovering natural models, abstracting design strategies, and emulating nature's lessons.
+
+#### [Use BIDARA in your own ChatGPT sessions!]()
+
 <!--
 
 **Here are some ideas to get you started:**
