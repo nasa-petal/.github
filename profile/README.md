@@ -1,4 +1,4 @@
-## Welcome to PeTaL - [petalai.org](https://petalai.org)
+## Welcome to PeTaL
 
 Our goal is to help biomimicry practitioners identify and apply bio-inspired design solutions to specific engineering design challenges using our expertise in software development, AI, and Machine Learning.
 
