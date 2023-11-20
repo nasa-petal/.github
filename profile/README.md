@@ -1,4 +1,4 @@
-## Welcome to PeTaL
+## Welcome to [PeTaL](https://www1.grc.nasa.gov/research-and-engineering/vine/petal/)
 
 Our goal is to help biomimicry practitioners identify and apply bio-inspired design solutions to specific engineering design challenges using our expertise in software development, AI, and Machine Learning.
 
