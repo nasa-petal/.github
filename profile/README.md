@@ -10,7 +10,7 @@ BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers u
 
 BIDARA can guide users through the Biomimicry Institute’s Design Process, a step-by-step method to propose biomimetic solutions to challenges. This process includes defining the problem, biologizing the challenge, discovering natural models, abstracting design strategies, and emulating nature's lessons.
 
-#### [Use BIDARA in your own ChatGPT sessions!](https://github.com/nasa-petal/discord_bot#use-bidara-in-your-own-chatgpt-session)
+#### :rocket: [Try it online](https://nasa-petal.github.io/bidara-deep-chat/) or [Use BIDARA in your own ChatGPT sessions](https://github.com/nasa-petal/discord_bot#use-bidara-in-your-own-chatgpt-session)
 
 <!--
 
